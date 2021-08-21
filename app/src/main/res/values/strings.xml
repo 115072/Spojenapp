@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">Spojenapp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="home_second">Home Second</string>
+
+
+    <string-array name="planets_array">
+        <item>IV.DI</item>
+        <item>IV.DA</item>
+        <item>III.DI</item>
+        <item>II.DI</item>
+        <item>I.DI</item>
+        <item>III.DA</item>
+        <item>II.DA</item>
+        <item>I.DA</item>
+
+
+    </string-array>
+
+
+    <string-array name="skupina">
+        <item></item>
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+
+    <string-array name="triSkupina">
+        <item></item>
+        <item>A</item>
+        <item>S2</item>
+        <item>B</item>
+    </string-array>
+
+
+    <string-array name="dni">
+        <item></item>
+        <item>pon</item>
+        <item>uto</item>
+        <item>str</item>
+        <item>stv</item>
+        <item>pia</item>
+    </string-array>
+
+
+    <string-array name="hodiny">
+        <item></item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pPoschodie">1.Floor</string>
+    <string name="dPoschodie">2.Floor</string>
+    <string name="A_poschodie">A Building 1.Floor</string>
+    <string name="B_prizemie">"B Building Ground Floor "</string>
+    <string name="B_poschodie">"B Building 1.Floor "</string>
+    <string name="C_prizemie">"C Building Ground Floor "</string>
+    <string name="C_poschodie">"C Building 1.Floor "</string>
+    <string name="prizemie">Ground Floor</string>
+
+
+    <string name="MariánOtrubaText">not translated</string>
+    <string name="SilviaSeresováText">not translated</string>
+    <string name="MichalMikoText">not translated</string>
+    <string name="EmokeBenkovaText">not translated</string>
+    <string name="KatarínaKošnarováText">It is astonishing how much enjoyment one can get out of a language that one understands imperfectly. — Basil Lanneau Gildersleeve</string>
+    <string name="KatarínaPokornáText">not translated</string>
+    <string name="GabrielaAlexovičText">not translated</string>
+    <string name="AlexandraSochováText">not translated</string>
+    <string name="IvanPolákText">not translated</string>
+    <string name="PeterHudec">not translated</string>
+    <string name="ImrichDekany">-</string>
+    <string name="FrantisekHortai">not translated</string>
+
+    <string name="ittKelleneLennem">I should be here</string>
+    <string name="tiltottHelyek">Entry is prohibited</string>
+    <string name="Osztalyok">Rooms/labs/etc.</string>
+    <string name="noiWc">Women\'s toilet</string>
+    <string name="ferfiWc">Men\'s toilet</string>
+    <string name="Kabinetek">Cabinets</string>
+
+    <string name="roviditett">Shortened ringing</string>
+    <string name="normalis">Ordinary ringing</string>
+    <string name="szünet">Break</string>
+    <string name="óra">Lesson</string>
+    <string name="nincsTanitas">No lessons</string>
+
+    <string name="angol">English</string>
+    <string name="magyar">Hungarian</string>
+    <string name="szlovak">Slovak</string>
+
+    <string name="AntonioMontana">You wanna play rough? Okay. Say hello to my little friend!” (Tony shoots everyone)</string>
+    <string name="JenniferLopez">This girl looks like JLo</string>
+    <string name="MichaelJordan">And i took that personally</string>
+
+    <string name="login">Try again!</string>
+    <string name="ajtok">In/Outside</string>
+    <string name="MáriaPolákováText">"I teach programming and applied informatics in different programming languages: Python, C++ and Java. I prepare students for KOP and programming competitions also I hold a study group where we I teach about programming for mobile applications "</string>
+    <string name="restart">Restart</string>
+    <string name="name">Name</string>
+    <string name="send">Send</string>
+    <string name="points">Points</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Lessons</string>
+    <string name="menu_slideshow">Teachers</string>
+    <string name="menu_obed">Menu</string>
+    <string name="menu_hra">Game</string>
+    <string name="igen">Yes</string>
+    <string name="dialogcim">Are you ready?</string>
+
+    <string name="nullapont">You can not send it if you have 0 points</string>
+    <string name="nincsorad">You don\'t have a lesson</string>
+    <string name="valamiHibaLehet">Something went wrong in the writing, not your fault</string>
+    <string name="max24kar">Max. 24 character long name</string>
+    <string name="nevBeadasa">I need a name</string>
+    <string name="A_prizemie">"A Building Ground Floor "</string>
+    <string name="kuldes_egyszer">You can send it only once</string>
+
+
+
+</resources>

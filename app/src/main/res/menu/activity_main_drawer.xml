@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+             android:icon="@drawable/iskolacimere"
+             android:title="@string/menu_home" />
+          <item
+              android:id="@+id/nav_gallery"
+              android:icon="@drawable/iskolacimere"
+              android:title="@string/menu_gallery" />
+          <item
+              android:id="@+id/nav_slideshow"
+              android:icon="@drawable/iskolacimere"
+              android:title="@string/menu_slideshow" />
+
+        <item
+            android:id="@+id/blankFragment"
+            android:title="@string/menu_obed"
+            android:icon="@drawable/iskolacimere"/>
+
+        <item
+            android:id="@+id/mapa"
+            android:title="@string/menu_hra"
+            android:icon="@drawable/iskolacimere"/>
+
+        <!--
+         <item
+             android:id="@+id/bufet"
+             android:title="Map"
+             android:icon="@drawable/iskolacimere"/>
+
+
+        <item
+            android:id="@+id/bufet"
+            android:title="bufet"
+            android:icon="@drawable/iskolacimere"/> -->
+      </group>
+  </menu>
+
+

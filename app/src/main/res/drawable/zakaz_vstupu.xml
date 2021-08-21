@@ -1,0 +1,44 @@
+<!--<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+            <solid android:color="#ffffff" />
+            <stroke android:width="10px" android:color="#b51d10" />
+        </shape>
+    </item>
+</selector> -->
+
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<item>
+    <rotate
+        android:fromDegrees="130"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:toDegrees="0">
+        <shape
+            android:shape="line"
+            android:top="1dip">
+            <stroke
+                android:width="3dp"
+                android:color="#FF0000"/>
+        </shape>
+    </rotate>
+</item>
+<item>
+    <rotate
+        android:fromDegrees="50"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:toDegrees="0">
+        <shape
+            android:shape="line"
+            android:top="1dip">
+            <stroke
+                android:width="3dp"
+                android:color="#FF0000"/>
+        </shape>
+    </rotate>
+</item>
+
+</layer-list>
